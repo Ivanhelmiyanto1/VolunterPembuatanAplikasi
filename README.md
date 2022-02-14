@@ -5,4 +5,4 @@ Repository ini digunakan untuk sayembara pencarian volunter untuk pembuatan apli
 
 Berikut daftar volunter yang diterima:
 
-**OON Arfiandwi, [oo.or.id](https://oo.or.id).
+* OON Arfiandwi, [oo.or.id](https://oo.or.id).
